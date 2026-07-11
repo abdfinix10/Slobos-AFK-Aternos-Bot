@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "AurivonSMP.aternos.me:35343",
+    "ip": "AurivonSMP.aternos.me",
     "port": 35343,
     "version": "",
     "try-creative": false
