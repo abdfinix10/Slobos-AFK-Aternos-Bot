@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "AurivonSMP.aternos.me",
+    "port": 35343,
     "version": "",
     "try-creative": false
   },
