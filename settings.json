@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "auri2029gg"
+      "password": "chalol78"
     },
     "anti-afk": {
       "enabled": true,
@@ -32,8 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Welcome to AurivonSMP",
-        "GG"
+        "Welcome to AurivonSMP"
       ]
     },
     "chat-log": true,
